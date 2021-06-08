@@ -1,0 +1,1 @@
+web: gunicorn urlshorter.wsgi --log-file -
