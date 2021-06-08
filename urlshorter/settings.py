@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-fx2)@kxh&r_!j-ga*u1zdo^wem&e&z$l_1q_ab+&6e9%8$!m^x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','urlshorter-zoomixinfo.herokuapp.com/']
 
 
 # Application definition
